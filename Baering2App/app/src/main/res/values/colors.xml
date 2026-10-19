@@ -1,0 +1,8 @@
+<resources>
+    <color name="accent">#2563EB</color>
+    <color name="muted">#6B7280</color>
+    <color name="pad_bg">#E8EEFF</color>
+    <color name="pad_flash">#FACC15</color>
+    <!-- 배달링(3) 앱(파랑)과 구분되도록 초록 아이콘 -->
+    <color name="icon_bg">#059669</color>
+</resources>

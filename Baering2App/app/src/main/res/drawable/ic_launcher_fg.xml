@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 링 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="7"
+        android:pathData="M54,36a18,18 0 1,0 0.01,0z" />
+    <!-- 버튼 -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M47,36a7,7 0 1,1 14,0a7,7 0 1,1 -14,0z" />
+    <!-- 숫자 2 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M48.5,49.5a5.5,5.5 0 1,1 9.5,3.8L48.5,63H60" />
+</vector>

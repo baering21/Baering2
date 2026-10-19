@@ -1,0 +1,9 @@
+# 빌드 결과물 · 개인 설정은 올리지 않음
+*.apk
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+captures/
+local.properties
